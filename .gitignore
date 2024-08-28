@@ -1,0 +1,8 @@
+﻿/ParkingManager/ParkingManager/obj
+.vs/
+*.log
+*.user
+*.suo
+*.cache
+*.config
+packages/
